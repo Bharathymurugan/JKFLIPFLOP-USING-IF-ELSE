@@ -101,6 +101,7 @@ end
 endmodule
 ```
 **RTL LOGIC FOR FLIPFLOPS**
+![Output](https://github.com/Bharathymurugan/JKFLIPFLOP-USING-IF-ELSE/blob/main/Screenshot%202026-03-15%20223051.png?raw=true)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
